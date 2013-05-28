@@ -1,4 +1,4 @@
 hmig.me
 =======
 
-my site's code
+my site's code :)
