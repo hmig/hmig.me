@@ -1,4 +1,4 @@
 hmig.me
 =======
 
-my site's code :)
+trying out 11ty, netifly and hylia...
